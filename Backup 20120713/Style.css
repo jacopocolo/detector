@@ -1,0 +1,63 @@
+body {
+background-color: #E3E4E5;}
+
+body {
+	color: #404040;
+	letter-spacing: normal;
+	font-family: Georgia, Times, Time New Roman, serif;;	
+	font-size: 40px;
+	height: auto;
+	width: 520px;
+	margin-top: 50px;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+div#space {height: 10px;}
+	
+div.hide {		display: none;
+ 				font-family: Georgia, Times, Time New Roman, serif;;
+ 				font-size: 15px;
+ 				margin: 10px 0px 10px 0px;
+ 				width: auto;
+ 				line-height: 140%;
+ 				height: auto;
+ 				color: 2B1B17; }
+div#simboli{font-size:12px;
+	text-align: center;}
+
+p1 {margin-top: -50px;}
+p2, p3 {margin-top: -10px;}
+p1, p2, p3 {line-height: 100%;
+			display: block;
+		
+ 			}
+ 			
+p#contatti {font-size: 15px;} 			
+ 			
+a {text-decoration: none;}
+a#link_saatchi {color: #4A372C;}
+a#link_pcmagazine {color: #212121;}
+a#link_macchianera {color: #104D5C;}
+a#link_radionation {color: #6B0E2A;}
+a#link_personalreport {color: #303336;}
+a#link_annamaria {color: #9A4D38;}
+a#link_ogilvy {color: #0A5D78;}
+a#contatti {color: #555555;
+font-weight: bold;}
+a.link_descrizione  {
+text-decoration: underline;
+color: #404040;}
+
+a#smiley {text-decoration:none; 
+		webkit-transform: rotate(90deg);
+		filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+a#smiley:visited {color:#555555;}
+
+a#heart {text-decoration:none;
+	display:none;}
+a#heart:visited {color:#555555;}
+
+
+
