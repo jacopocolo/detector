@@ -1,4 +1,4 @@
-hottercolder
+Comment detector
 ============
 
-Una webapp che ti dice se oggi fa più caldo o più freddo di ieri nel luogo dove sei.
+A bookmarklet that shows you the html comments in the page you are on (still work in progress).
